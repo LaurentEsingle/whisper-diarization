@@ -3,4 +3,5 @@ __pycache__/
 *.txt
 *.wav
 *.mp3
-
+whisper_diarization.egg-info/
+dist/
