@@ -25,9 +25,9 @@
 ## NOTE
 **This is a fork of [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization)**
 
-**It is an attempt to create a package setup and a developer interface that can be used in a Python script.**
+**It creates a distributable package and a developer interface that can be used in a Python script.**
 
-**Original README content below, slightly edited to add the extra features of this fork**
+**Original README content below, slightly edited to add details about the extra features of this fork**
 
 # 
 Speaker Diarization pipeline based on OpenAI Whisper
