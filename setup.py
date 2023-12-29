@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(name='whisper-diarization',
-      version=0.19,
-      description='Setup wrapper for MahmoudAshraf97/whisper-diarization github project',
-      long_description='This package creates a deployment package for MahmoudAshraf97/whisper-diarization. It also adds a developer interface that can be used from Python scripts.',
+      version=0.20,
+      description='Python 3 library for diarization',
+      long_description='Deployment package for https://github.com/MahmoudAshraf97/whisper-diarization. It adds a developer interface that can be used from Python scripts.',
       author='Laurent Esingle',
       author_email='laurent.esingle1@outlook.com',
       url='https://github.com/LaurentEsingle/whisper-diarization',
